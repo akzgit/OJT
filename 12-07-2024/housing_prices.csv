@@ -1,0 +1,11 @@
+Bedrooms,Bathrooms,SquareFootage,Location,Age,Price
+3,2,1500,Urban,10,300000
+4,3,2000,Suburban,5,400000
+2,1,800,Rural,20,150000
+3,2,1600,Urban,12,310000
+4,3,2200,Suburban,8,420000
+2,1,900,Rural,25,160000
+5,4,3000,Urban,3,600000
+3,2,1400,Suburban,15,290000
+3,2,1300,Rural,30,180000
+4,3,2500,Urban,7,500000
